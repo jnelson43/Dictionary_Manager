@@ -15,13 +15,13 @@ npm install
 ```
 Start the API
 ```bash
-devStart
+npm run devStart
 ```
-Navigate to the root of Spreetail_Work_Sample project folder and run
+Navigate to the Dictionary_Manager project folder and run
 ```bash
 npm install
 ```
-Start the application by running
+Start the application by running the following at the Dictionary_Manager folder.
 ```bash
 node .
 ```
