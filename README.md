@@ -17,7 +17,7 @@ Start the API
 ```bash
 npm run devStart
 ```
-Navigate to the Dictionary_Manager project folder and run
+Navigate to the Dictionary_Manager project folder and run the following in a new command window.
 ```bash
 npm install
 ```
